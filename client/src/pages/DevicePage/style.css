@@ -1,0 +1,28 @@
+.image-custom-style11 {
+    height: auto;
+    max-height: 350px;
+    width: auto;
+    max-width: 350px;
+    margin: auto;
+}
+
+.container-custom-style1 {
+    padding-top: 80px;
+}
+
+.col-custom-style {
+    margin-left: auto;
+}
+
+.h2-custom-style {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.card-custom-style {
+    margin-top: 25px;
+    height: 200px;
+    font-size: 32;
+    border: 5px solid lightgray;
+}

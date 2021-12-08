@@ -1,0 +1,42 @@
+.div-custom-style {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+
+.image-custom-style {
+    height: auto;
+    max-height: 250px;
+    width: auto;
+    max-width: 250px;
+    margin: auto;
+}
+
+.stylecard {
+    border: 0;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+}
+
+
+@media screen and (min-width: 768px) {
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: 33%;
+    }
+}
+@media screen and (max-width: 1399px) {
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: 45%;
+    }
+}
+@media screen and (max-width: 991px) {
+    .col-md-4 {
+        margin-left: 20px;
+        flex: 0 0 auto;
+        width: 100%;
+    }
+}
+

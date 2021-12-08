@@ -1,0 +1,12 @@
+.parallax-img {
+    margin-top: 100px;
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-img {
+    background-image: url('../../assets/Footer.png');
+  }
